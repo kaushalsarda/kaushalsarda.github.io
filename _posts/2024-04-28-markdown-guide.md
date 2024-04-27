@@ -15,13 +15,16 @@ background: '/img/posts/06.jpg'
 ###### I am a heading6
 
 **I AM BOLD**
-_I AM ITALICS_
+
+__I am italics__
+
 A coded text: `Hi from Kaushal`
 
 ```python
-print("This is a python code")
+text = "I am a python code"
+print(text)
 ```
 
-![](/img/cat.jpg)
+![I am a cute cat](/img/cat.jpg)
 
 I am a link: [Google](https://www.google.com)
