@@ -3,7 +3,7 @@ layout: post
 title: "Markdown guide"
 author: "Kaushal Sarda"
 subtitle: "All you need to know about markdown syntax"
-date: 2024-04-28 10:45:13
+date: 2024-04-27 10:45:13
 background: '/img/posts/06.jpg'
 ---
 
