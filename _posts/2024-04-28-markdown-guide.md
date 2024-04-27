@@ -16,11 +16,11 @@ background: '/img/posts/06.jpg'
 
 **I AM BOLD**
 
-__I am italics__
+*I am italics*
 
 A coded text: `Hi from Kaushal`
 
-```python
+```
 text = "I am a python code"
 print(text)
 ```
