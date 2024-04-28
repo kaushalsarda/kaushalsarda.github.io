@@ -5,10 +5,10 @@ description: This is what I do.
 background: '/img/bg-about.jpg'
 ---
 
-# Kaushal Sarda | Security Researcher @ Trellix
+![](/img/kaushal-sarda.png)
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed quisquam ut perspiciatis, repudiandae nulla animi iste vel, praesentium repellendus molestias aliquid consequatur, earum rem qui error voluptates eius enim consequuntur!</p>
+I am **Kaushal Sarda**, a dynamic Cybersecurity Researcher with a focus on **threat intelligence**, **vulnerability analysis**, and **incident response**. 
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ex alias, earum consectetur quia natus ducimus voluptate explicabo, hic porro reprehenderit, quasi? Tenetur ipsum distinctio laboriosam perspiciatis officiis dolore, architecto id.</p>
+Holding a Bachelor's degree in **Computer Science Engineering** from **Vellore Institute of Technology**, I possess expertise in identifying emerging cyber threats, analyzing attack vectors, and devising robust security solutions. 
 
-<p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam inventore aspernatur repellendus incidunt adipisci modi voluptates recusandae iste eligendi, repudiandae corporis quod aut, optio! Explicabo quaerat unde voluptatem! Itaque, eum!</p>
+In my current role as a **Security Researcher** at **Trellix**, I lead advanced threat detection techniques, conduct comprehensive vulnerability assessments, and collaborate across teams to strengthen digital defenses. My proactive approach and strong technical skills enable me to safeguard organizations' digital assets and enhance their overall security posture.
