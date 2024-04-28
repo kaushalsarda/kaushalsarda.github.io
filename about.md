@@ -5,7 +5,9 @@ description: This is what I do.
 background: '/img/bg-about.jpg'
 ---
 
+<span style = "display: inline block; border : 2px solid black ; border-radius: 50%; overflow:hidden;">
 <img src="/img/kaushal-sarda.png" style="border-radius: 50%; width:271; height:223;" >
+</span>
 
 I am **Kaushal Sarda**, a dynamic Cybersecurity Researcher with a focus on **threat intelligence**, **vulnerability analysis**, and **incident response**. 
 
