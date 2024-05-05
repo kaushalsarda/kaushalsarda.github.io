@@ -48,19 +48,19 @@ Let us consider the IP of the victim is `192.168.0.108`.
 
 Here, the `apache` web service is started on port **80** in victim's server.
 
-![](/img/blog-1/blog-2.png)
+<img src="/img/blog-1/blog-2.png" class="img-fluid mx-auto d-block" >
 
 The web shell is created by the attacker and named as `webshell.php`.
 
-![](/img/blog-1/blog-3.png)
+<img src="/img/blog-1/blog-3.png" class="img-fluid mx-auto d-block" >
 
-![](/img/blog-1/blog-4.png)
+<img src="/img/blog-1/blog-4.png" class="img-fluid mx-auto d-block" >
 
 The output of `ls -al` is seen from both the terminal and by using the web shell.
 
-![](/img/blog-1/blog-5.png)
+<img src="/img/blog-1/blog-5.png" class="img-fluid mx-auto d-block" >
 
-![](/img/blog-1/blog-6.png)
+<img src="/img/blog-1/blog-6.png" class="img-fluid mx-auto d-block" >
 
 Similarly, the contents of `/etc/passwd` can be seen from the terminal as well as by using the webshell.
 
