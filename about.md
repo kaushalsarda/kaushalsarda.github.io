@@ -5,7 +5,7 @@ description: This is what I do.
 background: '/img/bg-about.jpg'
 ---
 
-<img src="/img/kaushal-sarda.png" style="border: 2px solid black; border-radius: 50%; width:271; height:223;" >
+<img src="/img/kaushal-sarda.png" class="img-fluid mx-auto d-block" style="border: 2px solid black; border-radius: 50%;" >
 
 I am **Kaushal Sarda**, a dynamic Cybersecurity Researcher with a focus on **threat intelligence**, **vulnerability analysis**, and **incident response**. 
 
