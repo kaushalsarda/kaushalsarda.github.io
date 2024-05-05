@@ -17,7 +17,7 @@ Web shells are often written in scripting languages such as `PHP`, `ASP`, or `Py
 
 # ARCHITECTURE
 
-![Architecture diagram](/img/blog-1/blog-7.png)
+<img src="/img/blog-1/blog-7.png" class="img-fluid mx-auto d-block" >
 
 The hacker initially installs a persistent mechanism on the server by sending malicious **web shell code** to system which permits remote access as part of a multi-stage web shell attack. Subsequently, they try to gain more authority and utilise the backdoor to attack the organisaton or divert its resources for illicit purposes.
 
@@ -44,7 +44,7 @@ Overall, this web shell allows an attacker to run arbitrary shell commands on th
 
 Let us consider the IP of the victim is `192.168.0.108`.
 
-<img src="/img/blog-1/blog-1.png" style="width: 850px; height: 200px;" class="img-fluid mx-auto d-block" >
+<img src="/img/blog-1/blog-1.png" class="img-fluid mx-auto d-block" >
 
 Here, the `apache` web service is started on port **80** in victim's server.
 
