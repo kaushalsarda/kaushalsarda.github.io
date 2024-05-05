@@ -44,7 +44,7 @@ Overall, this web shell allows an attacker to run arbitrary shell commands on th
 
 Let us consider the IP of the victim is `192.168.0.108`.
 
-<img src="/img/blog-1/blog-1.png" style="width: 850px; height: 200px;" >
+<img src="/img/blog-1/blog-1.png" style="width: 850px; height: 200px;" class="img-fluid mx-auto d-block" >
 
 Here, the `apache` web service is started on port **80** in victim's server.
 
